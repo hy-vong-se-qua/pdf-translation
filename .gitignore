@@ -1,0 +1,16 @@
+.gradle
+.project
+.settings
+.classpath
+memo.ini
+bin
+frontend/dist
+frontend/.vscode
+frontend/package-lock.json
+node_modules
+backend/.vscode
+backend/**/__pycache__
+backend/**/__init__.py
+backend/**/*.log
+*.pkl
+*.pdf

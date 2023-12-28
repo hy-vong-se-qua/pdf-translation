@@ -1,0 +1,13 @@
+# pip install -r requirements.txt
+six
+pyperclip
+fpdf
+PDFQuery
+pypdf
+transformers
+sentencepiece
+tokenizers
+torch
+protobuf
+django
+gunicorn

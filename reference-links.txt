@@ -1,0 +1,30 @@
+https://proceedings.neurips.cc/paper_files/paper/2018/file/c0560792e4a3c79e62f76cbf9fb277dd-Paper.pdf
+https://arxiv.org/pdf/2001.08210.pdf
+https://stackoverflow.com/questions/76191862/how-can-i-fine-tune-mbart-50-for-machine-translation-in-the-transformers-python
+https://github.com/ken11/mbart-finetuning/blob/master/mbart-finetuning.ipynb
+https://www.kaggle.com/code/nguynquangchiu/finetune-mbart50-en-vi/notebook
+https://colab.research.google.com/github/elsanns/xai-nlp-notebooks/blob/master/fine_tune_bart_summarization_two_langs.ipynb#scrollTo=sB0R6z3Wd_-0
+https://medium.com/nlplanet/a-full-guide-to-finetuning-t5-for-text2text-and-building-a-demo-with-streamlit-c72009631887
+https://medium.com/@radicho/fine-tuning-the-multilingual-t5-model-from-huggingface-with-keras-f7f619ec5cfe
+2023/11/07
+https://towardsdatascience.com/t5-text-to-text-transformers-part-one-6b655f27c79a
+https://towardsdatascience.com/t5-text-to-text-transformers-part-two-837ba23a9eb4
+https://ai.stackexchange.com/questions/28410/which-tasks-are-called-as-downstream-tasks
+https://cseweb.ucsd.edu/%7Ennakashole/teaching/eisenstein-nov18.pdf#page=350
+https://arxiv.org/abs/2010.11934
+https://medium.com/gopenai/understanding-transformers-a-step-by-step-math-example-part-1-a7809015150a
+
+https://medium.com/@datamonsters/artificial-neural-networks-for-natural-language-processing-part-1-64ca9ebfa3b2
+https://towardsdatascience.com/fine-tuning-large-language-models-llms-23473d763b91
+https://datascience.stackexchange.com/questions/51065/what-is-the-positional-encoding-in-the-transformer-model
+https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/
+https://pbcquoc.github.io/
+https://github.com/ejmejm/multilingual-nmt-mt5/blob/main/nmt_full_version.ipynb
+
+
+// Keep colab live:
+function ConnectButton(){
+  console.log("Connect pushed");
+  document.querySelector("#top-toolbar > colab-connectbutton").shadowRoot.querySelector("#connect").click()
+}
+setInterval(ConnectButton,60000);

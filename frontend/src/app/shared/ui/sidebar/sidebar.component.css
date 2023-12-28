@@ -1,0 +1,6 @@
+.side-header {
+  height: 3em;
+}
+.side-contend {
+  height: calc(100% - 3em);
+}
